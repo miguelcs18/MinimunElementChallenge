@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a4ce0a1-06cc-4093-9c88-93b2418018e8" name="Changes" comment="Fixed logic for finMin() method.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinimumElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinimumElement.java" afterDir="false" />
-    </list>
+    <list default="true" id="3a4ce0a1-06cc-4093-9c88-93b2418018e8" name="Changes" comment="Made scanner private static field" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662045246908</updated>
       <workItem from="1662045249433" duration="1410000" />
-      <workItem from="1662126272574" duration="6107000" />
+      <workItem from="1662126272574" duration="6462000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <created>1662126671095</created>
@@ -137,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662389654970</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Delete sout messages to clean code">
+      <created>1662393444611</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662393444612</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Made scanner private static field">
+      <created>1662393593634</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662393593635</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +176,8 @@
     <MESSAGE value="Added scanner to main class to read count from the keyboard" />
     <MESSAGE value="Main method instances and calls to method findMin()" />
     <MESSAGE value="Fixed logic for finMin() method." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed logic for finMin() method." />
+    <MESSAGE value="Delete sout messages to clean code" />
+    <MESSAGE value="Made scanner private static field" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made scanner private static field" />
   </component>
 </project>

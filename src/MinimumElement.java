@@ -1,7 +1,6 @@
-import java.util.Arrays;
 import java.util.Scanner;
 public class MinimumElement {
-    private Scanner scanner = new Scanner(System.in);
+    private final Scanner scanner = new Scanner(System.in);
     public int[] readIntegers(int count)
     {
         int[] array = new int[count];

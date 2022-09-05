@@ -8,6 +8,7 @@ public class MinimumElement {
         {
             System.out.println("Enter integer number \r");
             array[i]=scanner.nextInt();
+            scanner.nextLine();
         }//for
         return array;
     }

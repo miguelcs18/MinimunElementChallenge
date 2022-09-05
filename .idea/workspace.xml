@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a4ce0a1-06cc-4093-9c88-93b2418018e8" name="Changes" comment="Create Minimunelement class">
-      <change afterPath="$PROJECT_DIR$/src/MinimunElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinumunElement.java" beforeDir="false" />
-    </list>
+    <list default="true" id="3a4ce0a1-06cc-4093-9c88-93b2418018e8" name="Changes" comment="readIntegers method created and tested" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662045246908</updated>
       <workItem from="1662045249433" duration="1410000" />
-      <workItem from="1662126272574" duration="2353000" />
+      <workItem from="1662126272574" duration="2654000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <created>1662126671095</created>
@@ -96,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662126939864</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Name of class fixed">
+      <created>1662386734506</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662386734506</updated>
+    </task>
+    <task id="LOCAL-00005" summary="readIntegers method created and tested">
+      <created>1662386825612</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662386825612</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +126,9 @@
     <MESSAGE value="Create project" />
     <MESSAGE value="Create main class" />
     <MESSAGE value="Create Minimunelement class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Minimunelement class" />
+    <MESSAGE value="Method read integers added and tested creating an instance for MinimunElement in main class" />
+    <MESSAGE value="Name of class fixed" />
+    <MESSAGE value="readIntegers method created and tested" />
+    <option name="LAST_COMMIT_MESSAGE" value="readIntegers method created and tested" />
   </component>
 </project>

@@ -13,4 +13,8 @@ public class MinimumElement {
         //System.out.println("array = " + Arrays.toString(array));
         return array;
     }
+    public void findMin(int[] array)
+    {
+
+    }
 }

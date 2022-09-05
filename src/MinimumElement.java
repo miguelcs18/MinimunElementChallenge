@@ -13,8 +13,22 @@ public class MinimumElement {
         //System.out.println("array = " + Arrays.toString(array));
         return array;
     }
-    public void findMin(int[] array)
+    public int findMin(int[] array)
     {
-
+        boolean flag=true;
+        int temp = 0;
+        while(flag) {
+            flag = false;
+            for (int i = 0; i < array.length-1; i++) {
+                if(array[i] > array[i+1])
+                {
+                    temp = array[i];
+                    array[i+1] = array[i];
+                    array[i] = temp;
+                    flag = true;
+                }
+            }//for
+        } //while
+        return array[0];
     }
 }

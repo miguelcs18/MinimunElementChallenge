@@ -9,7 +9,6 @@ public class Main {
         int minimum;
         MinimumElement melement = new MinimumElement();
         array = melement.readIntegers(count);
-        System.out.println("array after method findMin call = " + Arrays.toString(array));
         minimum = melement.findMin(array);
         System.out.println("Minimum element in the array is = " + minimum);
     }
